@@ -4,7 +4,7 @@
   <subtitle>Tell the word what you are writing about in your blog. It will show up on feed readers.</subtitle>
   <link href="http://localhost:8080/feed.xml" rel="self" />
   <link href="http://localhost:8080/" />
-  <updated>2025-03-31T14:20:26Z</updated>
+  <updated>2025-03-31T15:16:46Z</updated>
   <id>http://localhost:8080/</id>
   <author>
     <name>Cosma Ioan</name>
@@ -15,7 +15,7 @@
       <updated>2025-03-30T00:00:00Z</updated>
       <id>http://localhost:8080/blog/raising-a-ephemeral-vm-with-terraform-and-tailscale/</id>
       <content type="html">
-				&lt;p&gt;Hellow world&lt;/p&gt;
+				&lt;h1 id=&quot;why&quot;&gt;&lt;a href=&quot;http://localhost:8080/blog/raising-a-ephemeral-vm-with-terraform-and-tailscale/#why&quot; class=&quot;heading-anchor&quot;&gt;Why ?&lt;/a&gt;&lt;/h1&gt;&lt;ul class=&quot;list&quot;&gt;&lt;li&gt;To be able to spin on demand a Azure Vm with minimal cost and in a secure way&lt;/li&gt;&lt;li&gt;As a way to learn terraform&lt;/li&gt;&lt;li&gt;to be able to build on the vm to experiment with different tools. Ex: worker that needs to access S3 bucket.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;how&quot;&gt;&lt;a href=&quot;http://localhost:8080/blog/raising-a-ephemeral-vm-with-terraform-and-tailscale/#how&quot; class=&quot;heading-anchor&quot;&gt;How ?&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&quot;tools&quot;&gt;&lt;a href=&quot;http://localhost:8080/blog/raising-a-ephemeral-vm-with-terraform-and-tailscale/#tools&quot; class=&quot;heading-anchor&quot;&gt;Tools&lt;/a&gt;&lt;/h2&gt;&lt;ul class=&quot;list&quot;&gt;&lt;li&gt;Terraform&lt;/li&gt;&lt;li&gt;Tailscale&lt;/li&gt;&lt;li&gt;az cli&lt;/li&gt;&lt;/ul&gt;
  			</content>
     </entry><entry>
       <title>Eleventy Excellent 4.0</title>
