@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/blog/post-with-an-image/</loc>
+        <lastmod>2025-01-09T00:00:00.000Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/blog/eleventy-excellent-40/</loc>
+        <lastmod>2025-01-11T00:00:00.000Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/blog/raising-a-ephemeral-vm-with-terraform-and-tailscale/</loc>
+        <lastmod>2025-03-30T00:00:00.000Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/tags/feature/</loc>
+        <lastmod>2025-03-31T14:20:00.826Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/tags/</loc>
+        <lastmod>2025-03-31T14:20:00.826Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/about/</loc>
+        <lastmod>2025-03-31T14:20:00.826Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/blog/</loc>
+        <lastmod>2025-03-31T14:20:00.826Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/</loc>
+        <lastmod>2025-03-31T14:20:00.826Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/privacy/</loc>
+        <lastmod>2025-03-31T14:20:00.826Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+  
+</urlset>
